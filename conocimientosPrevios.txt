@@ -1,3 +1,4 @@
 Estudios en Ingeniería Informática.
 Estudios en Máster Ingeniería del Software e Inteligencia Artificial
 Practicas empresariales en manejo de test unitarios
+Trabajo en servicio murciano de salud
