@@ -1,0 +1,6 @@
+Objetivos a cumplir en el Máster de Desarrollo Fullstack:
+
+1. Dominar las tecnologías y herramientas clave para el desarrollo Frontend (HTML, CSS, JavaScript y frameworks como Angular).  
+2. Aprender a desarrollar aplicaciones Backend.  
+3. Integrar bases de datos.  
+4. Desplegar aplicaciones Fullstack.  
